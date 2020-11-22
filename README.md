@@ -1,0 +1,2 @@
+# NewsAggregator
+For JetBrains Hackathon
